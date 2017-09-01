@@ -1,5 +1,5 @@
-![build status](https://travis-ci.org/fdlk/molgenis-nightwatch.svg?branch=master "Travis CI build status")
 
+[![build status](https://travis-ci.org/fdlk/molgenis-nightwatch.svg?branch=master "Travis CI build status")](https://travis-ci.org/fdlk/molgenis-nightwatch)
 
 # install nightwatch and dependencies (once)
 
